@@ -33,5 +33,6 @@ The review workload stayed close to 20% on later claims, while the model caught 
 - `app.py` — Streamlit demo for exploring review capacity
 - `validation_scenarios.csv` — Aggregate validation results for the three slider settings
 - `requirements.txt` — Python dependencies for running the demo
+- `insurance_fraud_portfolio.ipynb` — Model training and evaluation notebook
 
-The repository contains aggregate results only. The original claim records are kept separately.
+The Streamlit demo runs with the included summary CSV. To rerun the training notebook, place the five original coursework CSVs in a local `data/` folder beside the notebook. The original claim records are kept separately.
