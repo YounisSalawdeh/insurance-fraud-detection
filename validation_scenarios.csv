@@ -1,0 +1,4 @@
+Review capacity,Score cutoff,Claims referred,Fraud cases caught,Fraud recall,Referral precision
+10%,0.4810,590,443,27.2%,75.1%
+20%,0.4050,1181,750,46.0%,63.5%
+30%,0.3546,1771,963,59.1%,54.4%
